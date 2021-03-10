@@ -17,12 +17,15 @@ This repository contains the Dialogflow intents and agents
 5. Enter a name for the agent, then click "CREATE". Important to note that the agent name cannot contain whitespaces. 
 
 6. After creating the agent, click on the gear to go to settings. 
+
 ![Imgur](https://imgur.com/FSyn5cv.jpg)
 
 7. Click on "Export and Import" 
+
 ![Imgur](https://imgur.com/XgQfLPJ.jpg)
 
-8.Import the Covid_Vaccine_Helper.zip file downloaded from this repository. Important to note that the user must type in "IMPORT". 
+8.Import the Covid_Vaccine_Helper.zip file downloaded from this repository. Important to note that the user must type in "IMPORT".
+ 
 ![Imgur](https://imgur.com/uZLZOIe.jpg)
 
 9. After typing IMPORT, click IMPORT, then click DONE. 
@@ -34,6 +37,7 @@ This repository contains the Dialogflow intents and agents
 12. A window should pop up. Click "TRY IT NOW". 
 
 13. On the bottom right in the same window, the chatbot will appear. Click on the bot and start chatting! 
+
 ![Imgur](https://imgur.com/gTKfb2M.jpg)
 
 ## Additional Info
