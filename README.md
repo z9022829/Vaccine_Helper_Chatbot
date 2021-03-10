@@ -20,9 +20,9 @@ This repository contains the Dialogflow intents and agents
 ![alt text](https://imgur.com/a/tg5sHxJ.jpg)
 
 7. Click on "Export and Import" 
-![alt text](https://imgur.com/XgQfLPJ.jpg)
+![alt text](https://imgur.com/a/XgQfLPJ.jpg)
 
-8.Import the Covid_Vaccine_Helper.zip file downloaded from this repository. Important to note that the user must timpe in "IMPORT". 
+8.Import the Covid_Vaccine_Helper.zip file downloaded from this repository. Important to note that the user must type in "IMPORT". 
 ![alt text](https://imgur.com/a/4W0Sqda.jpg)
 
 9. After typing IMPORT, click IMPORT, then click DONE. 
